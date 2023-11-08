@@ -1,0 +1,1 @@
+alert("clique em Ok para confirmar a compra")
